@@ -37,3 +37,4 @@ location = 'Eldorhaven'
 location_element = ''
 visited = []
 dead = []
+o  = ""
