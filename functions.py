@@ -177,7 +177,7 @@ class scan():
             print("Marts are currently in development.")
         location_element = ''
         input("Press enter to quit: ")
-        break
+        pass
 
 class story():
 
