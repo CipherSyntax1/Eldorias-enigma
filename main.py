@@ -46,4 +46,4 @@ while True:
             backend.save_inventory() 
             break
     except:
-            print("Enter the correct command. ")
+            print("Enter the correct command.")
