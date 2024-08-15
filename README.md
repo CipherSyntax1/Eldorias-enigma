@@ -27,13 +27,13 @@ Welcome to **Eldoria: The Enigma**, a text-based adventure game that takes you i
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/ciphersyntax1/eldoria-the-enigma.git
+    git clone https://github.com/ciphersyntax1/eldorias-enigma.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd eldoria-the-enigma
+    cd eldorias-enigma
     ```
 
 3. Ensure that you have Python installed on your system. This game requires Python 3.x.
