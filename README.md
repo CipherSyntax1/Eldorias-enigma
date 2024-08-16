@@ -51,23 +51,6 @@ Welcome to **Eldoria: The Enigma**, a text-based adventure game that takes you i
 3. **Follow the Story**: After setting up your profile, you will be guided through the story. Read the text carefully and respond to prompts as needed.
 4. **Progress**: Your decisions and responses will shape the course of the adventure.
 
-## Project Structure
-
-Here's a quick overview of the project's structure:
-
-```bash
-eldoria-the-enigma/
-│
-├── data/
-│   └── inventory.py          # Placeholder for inventory management
-│
-├── com.eldoria.enigma/       # Directory for saving profile data
-│   └── profile.enigma        # Saved profile data (generated after running the game)
-│
-├── main.py                   # Entry point for the game
-└── README.md                 # Project documentation
-```
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute, please fork the repository, create a new branch, and submit a pull request. Make sure to follow the existing code style and add comments where necessary.
